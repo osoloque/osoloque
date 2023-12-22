@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osoloque. Physicist and ML enthusiast.
-- 👀 I’m passianote about Science, New technologies, and application of Data Science and Machine Learning in Science.
+- 👀 I’m passionate about Science, AI, and the application of Data Science and Machine Learning techniques in Science.
 
 <!---
 osoloque/osoloque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
